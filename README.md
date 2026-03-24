@@ -24,7 +24,7 @@ It is designed using **table-based layout and inline CSS** to ensure compatibili
 
 ## 🖼️ Screenshot
 
-![Project Screenshot](./assets/screenshot.png)
+![Project Screenshot](./assets/screenshot)
 
 ---
 
